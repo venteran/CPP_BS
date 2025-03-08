@@ -4,7 +4,12 @@
 using namespace std;
 
 //联合体的内存分配
-
+union U_Data
+{
+	int a;
+	float b;
+	char c[8];
+};
 
 int main()
 {

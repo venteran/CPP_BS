@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\C\u002B\u002BStudy\\1111\\CPP_BS\\",
+  "WorkspaceRootPath": "G:\\C\u002B\u002BStudy\\CPP_BS_H\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F78C973-BF38-4D0B-9FE2-63FB2745C4F6}|CPP_BS_H\\CPP_BS_H.vcxproj|G:\\C\u002B\u002BStudy\\1111\\CPP_BS\\CPP_BS_H\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5F78C973-BF38-4D0B-9FE2-63FB2745C4F6}|CPP_BS_H\\CPP_BS_H.vcxproj|solutionrelative:CPP_BS_H\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5F78C973-BF38-4D0B-9FE2-63FB2745C4F6}|CPP_BS_H\\CPP_BS_H.vcxproj|G:\\C\u002B\u002BStudy\\CPP_BS_H\\CPP_BS_H\\OOB.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F78C973-BF38-4D0B-9FE2-63FB2745C4F6}|CPP_BS_H\\CPP_BS_H.vcxproj|solutionrelative:CPP_BS_H\\OOB.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F78C973-BF38-4D0B-9FE2-63FB2745C4F6}|CPP_BS_H\\CPP_BS_H.vcxproj|G:\\C\u002B\u002BStudy\\CPP_BS_H\\CPP_BS_H\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5F78C973-BF38-4D0B-9FE2-63FB2745C4F6}|CPP_BS_H\\CPP_BS_H.vcxproj|solutionrelative:CPP_BS_H\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5F78C973-BF38-4D0B-9FE2-63FB2745C4F6}|CPP_BS_H\\CPP_BS_H.vcxproj|G:\\C\u002B\u002BStudy\\CPP_BS_H\\CPP_BS_H\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F78C973-BF38-4D0B-9FE2-63FB2745C4F6}|CPP_BS_H\\CPP_BS_H.vcxproj|solutionrelative:CPP_BS_H\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F78C973-BF38-4D0B-9FE2-63FB2745C4F6}|CPP_BS_H\\CPP_BS_H.vcxproj|G:\\C\u002B\u002BStudy\\CPP_BS_H\\CPP_BS_H\\func1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5F78C973-BF38-4D0B-9FE2-63FB2745C4F6}|CPP_BS_H\\CPP_BS_H.vcxproj|solutionrelative:CPP_BS_H\\func1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F78C973-BF38-4D0B-9FE2-63FB2745C4F6}|CPP_BS_H\\CPP_BS_H.vcxproj|G:\\C\u002B\u002BStudy\\CPP_BS_H\\CPP_BS_H\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F78C973-BF38-4D0B-9FE2-63FB2745C4F6}|CPP_BS_H\\CPP_BS_H.vcxproj|solutionrelative:CPP_BS_H\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,8 +29,29 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "OOB.h",
+              "DocumentMoniker": "G:\\C\u002B\u002BStudy\\CPP_BS_H\\CPP_BS_H\\OOB.h",
+              "RelativeDocumentMoniker": "CPP_BS_H\\OOB.h",
+              "ToolTip": "G:\\C\u002B\u002BStudy\\CPP_BS_H\\CPP_BS_H\\OOB.h",
+              "RelativeToolTip": "CPP_BS_H\\OOB.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-08T21:37:26.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "main.h",
               "DocumentMoniker": "G:\\C\u002B\u002BStudy\\CPP_BS_H\\CPP_BS_H\\main.h",
               "RelativeDocumentMoniker": "CPP_BS_H\\main.h",
@@ -34,8 +59,7 @@
               "RelativeToolTip": "CPP_BS_H\\main.h",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-08T16:14:52.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T16:14:52.038Z"
             },
             {
               "$type": "Document",
@@ -47,21 +71,19 @@
               "RelativeToolTip": "CPP_BS_H\\func1.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-08T16:11:42.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T16:11:42.96Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
-              "DocumentMoniker": "G:\\C\u002B\u002BStudy\\1111\\CPP_BS\\CPP_BS_H\\main.cpp",
+              "DocumentMoniker": "G:\\C\u002B\u002BStudy\\CPP_BS_H\\CPP_BS_H\\main.cpp",
               "RelativeDocumentMoniker": "CPP_BS_H\\main.cpp",
-              "ToolTip": "G:\\C\u002B\u002BStudy\\1111\\CPP_BS\\CPP_BS_H\\main.cpp",
+              "ToolTip": "G:\\C\u002B\u002BStudy\\CPP_BS_H\\CPP_BS_H\\main.cpp",
               "RelativeToolTip": "CPP_BS_H\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-08T16:05:06.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T16:05:06.576Z"
             }
           ]
         }
